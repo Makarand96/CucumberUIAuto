@@ -17,7 +17,7 @@ public class ArrayCheck {
 	a.add("Hi");
 	a.add("FullName");
 	a.add("CheckCheck");
-	
+	a.add("Rose");
 	System.out.println(a.get(1));
 	
 	
