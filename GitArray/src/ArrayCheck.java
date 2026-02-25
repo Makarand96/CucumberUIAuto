@@ -19,7 +19,9 @@ public class ArrayCheck {
 	a.add("CheckCheck");
 	a.add("Rose");
 	System.out.println(a.get(1));
-	
+
+		ArrayList<Integer>() bb= new ArrayList<Integer>();
+		bb.add(3);
 	
 	System.out.println("--------------");
 	
