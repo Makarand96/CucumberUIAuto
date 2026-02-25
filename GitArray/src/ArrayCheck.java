@@ -22,6 +22,9 @@ public class ArrayCheck {
 
 		ArrayList<Integer>() bb= new ArrayList<Integer>();
 		bb.add(3);
+
+		ArrayList<Integer>() hh= new ArrayList<Integer>();
+		hh.add(3);
 	
 	System.out.println("--------------");
 	
